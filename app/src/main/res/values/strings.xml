@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapSpeechRecognition</string>
+    <string name="talk_to_phone">Talk To The Phone</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
